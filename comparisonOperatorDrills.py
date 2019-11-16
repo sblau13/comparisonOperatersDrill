@@ -4,6 +4,8 @@ EXAMPLE TASK:
 '''
 #EX) Check if 4 is equal to 5 and store the answer in variable a
 
+
+
 a = (4==5)
 
 '''
@@ -52,8 +54,7 @@ m=(9*7 > 8*8)
 
 #13) Check if the square root of 3 is less than 1.15 squared and store the answer in
 #  ) variable n
-n=(sqrt(3) < 1.15)
-
+n=sqrt(3) < 1.15*1.15
 #14) Multiple 8 by 3 and store that in variable o, then divide 56 by 2 and store that
 #  ) in variable p, finally check if o is greater then p and store the answer in variable q.
 o=(8*3)
@@ -63,22 +64,18 @@ q=(o>p)
 #15) Take the square root of 96 and store that in variable r, then square 8.6 and store
 #  ) that in variable s, finally check if r is greater than or equal to s and store the
 #  ) answer in t
-r=(sqrt(96))
-s=(sqrt(8.6))
-t=(r>=s)
-'''
-For the next section, you will be reading comparison statements and determining their answer
-EXAMPLE:
+
+
 '''
 #EX) 4 == 5
 False
 
 '''
-END OF EXAMPLE
+
 '''
 
 '''
-START HERE
+
 '''
 
 #1) 4 == 5
